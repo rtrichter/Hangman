@@ -10,7 +10,7 @@ To run in another file use the one of the following scripts
 import hangman
 hangman.run_game()
 
-       OR
+### OR
 
 from hangman import run_game
 run_game()
